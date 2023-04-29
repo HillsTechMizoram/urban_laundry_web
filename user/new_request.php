@@ -37,12 +37,9 @@ if (strlen($_SESSION['lduid'] == 0)) {
                 $('#pickupaddress').hide();
                 $('#service').change(function() {
                     var v = $("#service").val();
-
-
                     if (v == 'dropservice') {
                         $('#pickupaddress').hide();
                     }
-
                     if (v == 'pickupservice') {
                         $('#pickupaddress').show();
                     }
@@ -62,7 +59,6 @@ if (strlen($_SESSION['lduid'] == 0)) {
                 <div class="main-panel">
                     <div id="content-wrapper">
                         <div class="container-fluid">
-
                             <!-- Breadcrumbs-->
                             <div class="col-xl-12 pt-3">
                                 <ol class="breadcrumb ">
@@ -123,7 +119,7 @@ if (strlen($_SESSION['lduid'] == 0)) {
             </div>
             <!-- page-body-wrapper ends -->
         </div>
-        
+
         <!-- <script>
             $(document).ready(function() {
                 $('#myDataTable').DataTable();
