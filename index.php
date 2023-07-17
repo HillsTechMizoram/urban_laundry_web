@@ -58,16 +58,10 @@
                         <div class="main-menu d-none d-lg-block">
                             <nav>
                                 <ul id="navigation">
-                                    <li class="active"><a href="index.html">Home</a></li>
-                                    <li><a href="about.html">About</a></li>
+                                    <li class="active"><a href="index.php">Home</a></li>
+                                    <li><a href="#">About</a></li>
                                     <li><a href="services.html">Services</a></li>
-                                    <li><a href="blog.html">Blog</a>
-                                        <ul class="submenu">
-                                            <li><a href="blog.html">Blog</a></li>
-                                            <li><a href="blog_details.html">Blog Details</a></li>
-                                            <li><a href="elements.html">Element</a></li>
-                                        </ul>
-                                    </li>
+                                    
                                     <li><a href="contact.html">Contact</a></li>
                                 </ul>
                             </nav>
@@ -110,7 +104,7 @@
         <!--? Services Area Start -->
         <section class="services-area pt-top border-bottom pb-20 mb-60">
             <div class="container">
-                <div class="row justify-content-center">
+                <div class="row ">
                     <div class="col-xl-7 col-lg-8">
                         <div class="section-tittle text-center mb-55">
                             <span class="element">Our Process</span>
@@ -126,7 +120,8 @@
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">We collect your clothes</a></h5>
-                                <p>The automated process starts as soon as your clothes go into the machine. The outcome is gleaming clothes!</p>
+                                <p>The automated process starts as soon as your clothes go into the machine. With its powerful cleaning action,
+                                    you can be sure that even the most stubborn stains will be removed with ease.</p>
                             </div>
                         </div>
                     </div>
@@ -137,7 +132,8 @@
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Wash your clothes</a></h5>
-                                <p>The automated process starts as soon as your clothes go into the machine. The outcome is gleaming clothes!</p>
+                                <p>Our state-of-the-art laundry machine is packed with innovative features that will revolutionize your laundry routine.
+                                    With its large capacity, you can now wash more clothes in a single load, saving you time and energy.</p>
                             </div>
                         </div>
                     </div>
@@ -148,7 +144,8 @@
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.html">Get delivery</a></h5>
-                                <p>The automated process starts as soon as your clothes go into the machine. The outcome is gleaming clothes!</p>
+                                <p>Our laundry delivery service offers a hassle-free solution to all your laundry needs. With just a few clicks,
+                                    you can schedule a pickup and delivery time that works best for you. And best of all, we'll take care of everything in between.</p>
                             </div>
                         </div>
                     </div>
@@ -167,10 +164,11 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="row no-gutters">
                     <div class="col-lg-6 col-md-6">
                         <div class="single-offers">
-                            <img src="assets/img/gallery/offers1.png" alt="" class=" w-100">
+                            <img src="assets/img/gallery/offers1.jpg" alt="" class=" w-100">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
@@ -203,7 +201,7 @@
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="single-offers">
-                            <img src="assets/img/gallery/offers4.png" alt="" class=" w-100">
+                            <img src="assets/img/gallery/offers4.jpg" alt="" class=" w-100">
                         </div>
                     </div>
                 </div>
@@ -218,7 +216,7 @@
                         <div class="col-xl-8 col-lg-9 col-md-7">
                             <div class="wantToWork-caption wantToWork-caption2">
                                 <h2>Call us for a service</h2>
-                                <p>We deliver the goods to the most complicated places on earth</p>
+                                <p>Why spend your precious time doing laundry when you can leave it to the experts at Urban Laundry</p>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-5">
@@ -348,14 +346,14 @@
                     <div class="col-lg-6 col-md-12">
                         <!-- about-img -->
                         <div class="about-img ">
-                            <img src="assets/img/gallery/about1.png" alt="">
+                            <img src="assets/img/gallery/about1.jpeg" alt="">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-12">
                         <div class="about-caption mb-50">
                             <!-- Section Tittle -->
                             <div class="section-tittle mb-25">
-                                <h2>About company</h2>
+                                <h2>About Urban Laundry</h2>
                             </div>
                             <p class="mb-20">
                                 The automated process starts as soon as your clothes go into the machine. The outcome is gleaming clothes!
@@ -370,9 +368,9 @@
         </section>
         <!-- About Area End -->
         <!--?  Map Area start  -->
-        <div class="Map-area">
+        <!-- <div class="Map-area">
             <img src="assets/img/gallery/Map.png" alt="" class="w-100">
-        </div>
+        </div> -->
         <!-- Map Area End -->
     </main>
     <footer>
@@ -389,7 +387,7 @@
                                 </div>
                                 <div class="footer-tittle">
                                     <div class="footer-pera">
-                                        <p>Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.</p>
+                                        <p>Our state-of-the-art washing machines are designed to handle any type of fabric, from delicate silks to heavy-duty denim. And with our advanced technology, your clothes will come out looking brighter and smelling fresher than ever before.</p>
                                     </div>
                                 </div>
                                 <!-- social -->
@@ -409,7 +407,7 @@
                                     <li><a href="#">- Dry Cleaning</a></li>
                                     <li><a href="#">- Dry Clean</a></li>
                                     <li><a href="#">- Ironing Services</a></li>
-                                    <li><a href="#">- Laundry Service London</a></li>
+                                    <li><a href="#">- Laundry Service Aizawl</a></li>
                                     <li><a href="#">- Laundry App</a></li>
                                 </ul>
                             </div>
@@ -420,9 +418,9 @@
                             <div class="footer-tittle">
                                 <h4>Get in touch</h4>
                                 <ul>
-                                    <li class="number"><a href="#">(90) 898 789-8957</a></li>
-                                    <li><a href="#">laundry@567.com</a></li>
-                                    <li><a href="#">789/A, Green road NYC-9089</a></li>
+                                    <li class="number"><a href="#">(+91) 878 775-8304</a></li>
+                                    <li><a href="#">laundry@mail.com</a></li>
+                                    <li><a href="#">Chawnpui veng, Zonuam Road</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -440,7 +438,7 @@
                                 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                                     Copyright &copy;<script>
                                         document.write(new Date().getFullYear());
-                                    </script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                                    </script> All rights reserved | This site is Developed by <a href="https://hillstech.in/" target="_blank">HillsTech</a>
                                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                             </div>
                         </div>

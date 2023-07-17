@@ -12,7 +12,7 @@ function error422($message)
     exit();
 }
 
-function getCategoryList()
+function getPriceList()
 {
     global $conn;
 

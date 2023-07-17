@@ -134,12 +134,7 @@ if (strlen($_SESSION['lduid'] == 0)) {
                                             <td><?php echo $b2 = $_SESSION['woolencloth']; ?></td>
                                             <td><span>&#8377;</span><?php echo $gc = $b2 * $a2 ?></td>
                                         </tr>
-
-
-
-
                                         <tr>
-
                                             <th>Other Price</th>
                                             <td>Other Price depend upon cloth variety(other than above three category)</td>
                                             <td><?php echo $b3 = $_SESSION['others']; ?></td>

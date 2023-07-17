@@ -49,8 +49,6 @@ if (strlen($_SESSION['lduid'] == 0)) {
                 $('#pickupaddress').hide();
                 $('#service').change(function() {
                     var v = $("#service").val();
-
-
                     if (v == 'dropservice') {
                         $('#pickupaddress').hide();
                     }
